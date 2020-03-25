@@ -1,7 +1,11 @@
 Here are some colors
 Black
+<<<<<<< HEAD
 Red
 Pink
 BLue
 
 
+=======
+pink
+>>>>>>> 3647e72dd8eee1e552cd90af0cee745503d045a0

@@ -1,2 +1,4 @@
 apple
 dragon fruit
+orange
+kiwi

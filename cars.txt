@@ -4,3 +4,4 @@ Tesla
 BMW 3
 BMW X6
 Mercedens SS00
+Kia Optima

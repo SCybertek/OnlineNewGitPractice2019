@@ -7,9 +7,7 @@ Mercedens SS00
 Kia Optima
 Lexus GX470
 Kia Optima
-<<<<<<< HEAD
 Honda Civic
-
-=======
 Subaru WRX
->>>>>>> 28105ed3b0a66a4dc88cd9460745c173e5318136
+Range Rover Velar
+
